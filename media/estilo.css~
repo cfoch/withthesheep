@@ -89,7 +89,13 @@ span.inscripcion {
     line-height: 15px;
 }
 
-.video.video {
-    background-color: red;
+.thesheep {
+    position: absolute;
+    min-width: 650px;
+    width: 100%;
+}
+
+.stream {
+    padding-top: 185px;
 }
 

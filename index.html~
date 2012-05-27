@@ -17,7 +17,7 @@
       <div class='thesheep'>
         <img src='media/images/thesheep.png'>
       </div>
-      <div class='stream'>
+      <div class='video'>
         <iframe width="640" height="360" src="http://www.youtube.com/embed/dZcip9HY1Pw" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
